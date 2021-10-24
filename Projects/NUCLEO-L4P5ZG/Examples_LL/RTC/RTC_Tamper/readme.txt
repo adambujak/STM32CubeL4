@@ -1,4 +1,4 @@
-﻿/**
+/**
   @page RTC_Tamper RTC example
   
   @verbatim

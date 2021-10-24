@@ -1,4 +1,4 @@
-﻿/**
+/**
   @page RTC_Calendar RTC example
 
   @verbatim
